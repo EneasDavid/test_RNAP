@@ -1,3 +1,3 @@
-| Discente| Matricula | E-mail|
+|Discente| Matricula | E-mail|
 |----------|-----------|----------|
-| David Enéas | 23110637| def@ic.ufal.br|
+|David Enéas | 23110637| def@ic.ufal.br|
